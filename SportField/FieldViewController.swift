@@ -67,7 +67,6 @@ class FieldViewController: UIViewController, MatchPitchProtocol {
                                 })
                         })
                 })
-                
                 self.view.layoutIfNeeded()
         }
     }
